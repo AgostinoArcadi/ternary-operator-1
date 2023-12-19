@@ -1,0 +1,1 @@
+# ternary-operator-1
